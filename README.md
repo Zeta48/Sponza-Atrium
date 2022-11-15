@@ -1,2 +1,2 @@
 # Sponza-Atrium
-Sponza atrium OBJ format
+Sponza Atrium OBJ format
